@@ -4,8 +4,15 @@
         <description><![CDATA[Das ist eine Test-Site]]></description>
         <link>https://thegrid.ai/test-site-felix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 09:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 09:26:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test-site-felix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Watch one of the best rivalries in esports, CLG vs TSM now in the #NALCS Semifinals! https://www.twitch.tv/nalcs1 pic.twitter.com/5WChdluE94</p>]]></description>
+            <link>https://twitter.com/TwitchEsports/status/767467657192878080</link>
+            <guid isPermaLink="false">b6d6a660-0b54-42d1-a9ad-6213d45a11a4</guid>
+            <pubDate>Mon, 22 Aug 2016 09:26:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d74d335-312a-4d04-a22d-021627d35bbb.jpg">]]></description>
