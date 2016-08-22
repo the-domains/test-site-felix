@@ -1,0 +1,29 @@
+name: Test-Site-Felix
+favicon: null
+layout_spectrum: 0.5939745784271508
+typography_spectrum: 0.39740052982233465
+title: Das ist eine Test-Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.28365570632740855
+  lightness: 0.24003962753340602
+  saturation: 0.9273091990035027
+  rhythmicContrast: 0.41356759844347835
+purpose: []
